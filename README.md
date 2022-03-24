@@ -2,6 +2,6 @@
 
 ### FastAPI Blog
 
-To run fastapiblog go to the blog directory in terminal, install the necessary requirements using command : pip install requirements.txt (press Enter) and enter the command: uvicorn main:app run  
+To run fastapiblog go to the blog directory in terminal, install the necessary requirements using command : pip install requirements.txt (press Enter) and to run enter the command: uvicorn main:app run  
 
 Database used : PostgreSQL
