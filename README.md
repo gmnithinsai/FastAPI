@@ -1,4 +1,6 @@
-# FastAPI
+# FastAPI  
+
+### FastAPI Blog
 
 To run fastapiblog go to the blog directory in terminal and enter the command: uvicorn main:app run  
 
